@@ -12,3 +12,8 @@
 <p align="center">
 Used Languages 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahadev786&layout=compact&theme=tokyonight" align="center">
+
+
+<b>𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒</b>
+
+<img width="50%" src="https://gpvc.arturio.dev/mahadev786" alt="Profile views" />
