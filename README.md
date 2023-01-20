@@ -2,8 +2,13 @@
 <p align="center">
 
 
-- 👋 Hi, I’m @mahadev786
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<p align="center">
+<img src="https://github-stats-alpha.vercel.app/api/?username=mahadev786&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
+</p>
+
+<p align="center">&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahadev786&&show_icons=true&theme=midnight-purple" alt="mahadev786"/></p>        
+ 
+<p align="center">
+Used Languages 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahadev786&layout=compact&theme=tokyonight" align="center">
